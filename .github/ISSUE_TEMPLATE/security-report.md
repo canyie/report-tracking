@@ -9,10 +9,10 @@ assignees: ''
 
 Vendor: Google
 Product: Android
-Reported on: (UTC-8)
+Reported on: (UTC+8)
 Reported by: canyie
 Recommended Security Severity Rating: High
-Vendor Severity Severity Rating:
+Vendor Severity Severity Rating: Unknown
 Duplicate: No
 Methodology: Manual code review
 Vendor ID: [Redacted]
